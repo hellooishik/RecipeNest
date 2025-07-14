@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RecipeNestApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e97b03aa9fa8463576e2a65fb7990bc3d097068f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8edca6d948adb8eb20495465985e0a231a92a5bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("RecipeNestApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RecipeNestApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
